@@ -1,0 +1,5 @@
+Webpack : Es un empaquetador de modulos para aplicaciones modernas en Javascript 
+
+User: funcione, sea rapida, cumpla sus funciones, se actualice, responda a sus interacciones, producto de calidad
+
+Developer: escribir aplicaciones de manera eficiente, tener un codigo limpio, aplicar tecnologia para resolver sus problemas, tener conjunto de reglas y convenciones, entorno de desarrollo optimizado en productividad
